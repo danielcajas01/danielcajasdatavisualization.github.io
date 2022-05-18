@@ -46,7 +46,13 @@ for (let j = 0; j<tiles.length; j++){
 	if(jpg != tiles[j].id) return;
 }
 } console.log("winer,winer");
-	puzzle.nextSibling.style.visibility = "visible";
+	document.getElementById("tittleText").style.display = "none";
+	//puzzle.nextSibling.style.visibility = "visible";
+	document.getElementById("lockScreenDisplay").style.display = "none";
+	document.getElementById("lockScreenImage").style.display = "none";
+	document.getElementById("c1").style.display = "none";
+	information.style.display = "inline";
+	information.style.overflowY = "scroll";
 }
 
 $(document).ready(function(){

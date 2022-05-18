@@ -113,6 +113,24 @@
 		"month" : "February",
 		"time" : "822m"
 	},
+	{
+		"app" : "Coinbase",
+		"information" : "Crypto investment",
+		"month" : "March",
+		"time" : "15m"
+	},
+	{
+		"app" : "Betterment",
+		"information" : "Investment",
+		"month" : "March",
+		"time" : "41m"
+	},
+	{
+		"app" : "TD Bank",
+		"information" : "Bank",
+		"month" : "March",
+		"time" : "30m"
+	},
 	{	
 		"app" : "Amazon",
 		"information" : "Buy products",
